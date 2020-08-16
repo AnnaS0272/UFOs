@@ -1,6 +1,5 @@
 ## UFO Search
 
---
 
 This project has a UFO data set and a filtering capability connected through html and java script. 
 
